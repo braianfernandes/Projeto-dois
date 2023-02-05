@@ -18,5 +18,5 @@ form.addEventListener('submit', function(e){
     corpoTabela.innerHTML = linhas;
 
     inputNomeContato.value = '';
-    inputTelefoneContato = '';
+    inputTelefoneContato.value = '';
 });
